@@ -36,3 +36,7 @@ button {
   --text-weight: 400;
   --menu-text-weight: 500;
 }
+
+body {
+  font-family: "Montserrat";
+}
